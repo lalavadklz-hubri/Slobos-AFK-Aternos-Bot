@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FlameFkragz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ddssidnj7.aternos.me",
-    "port": 55701,
-    "version": "1.1.0",
+    "ip": "mgchannel.play.hosting",
+    "port": 25889,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi guyss",
+        "hiiiii",
+        "oh im alone"
       ]
     },
     "chat-log": true,
